@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: #CCCCCC;
+  padding: 50px;
+  border-radius: 10px;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+h1 {
+  color: #029CA3;
+}
+
+input[type="number"] {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+  border: 1px solid #029CA3;
+}
+
+button {
+  background-color: #029CA3;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #027178;
+}
